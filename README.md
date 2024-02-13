@@ -1,5 +1,70 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="200"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://t.me/Titsubishi">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat" width="99"/>
+  </a>
+  <a href="https://leetcode.com/PavelSpectr">
+    <img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=white&style=flat" width="99"/>
+  </a>
+</div>
+<p></p>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=PavelSpectr&style=flat&color=blue" alt="" width="150"/>
+</div>
+<h1 align="center">
+  Nice to meet you there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
+<div id="about" align="center">
+  <img src="https://media.giphy.com/media/91pmJROMJK0kHBIbq7/giphy.gif" height="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJrM3UwaGFpaGtuYzdqbnU5NWdhM2hqaGhlNmNlMHdydGJvemdrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mu71dzAAGL9n0ZMbeZ/giphy.gif" height="200"/>
+  <img src="https://media.giphy.com/media/NDpR0Ot6vSAqrylqBZ/giphy.gif" height="200"/>
+</div>
+<div id="about" align="center">
+  <img src="https://media.giphy.com/media/xg2jowPlHhIp4koVAm/giphy.gif" height="148"/>
+  <img src="https://media.giphy.com/media/k1g9hVriuo6Hs4Ty9I/giphy.gif" height="148"/>
+</div>
+
+### :man_technologist: About Me :
+#### I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Syberia.
+- :telescope: I’m working as a Software Java Engineer and contributing to backend for building web and PC applications.
+
+- :seedling: Lerning frameworks and tools for Java, algorithms and exploring actual IT-technologies.
+
+- :desktop_computer: I’m very good specialist for operating systems ![Windows Badge](https://img.shields.io/badge/Windows-white?style=flat&logo=Windows&logoColor=blue), ![Linux Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=Linux&logoColor=black), ![MacOS Badge](https://img.shields.io/badge/MacOS-white?style=flat&logo=Apple&logoColor=black) and network technilogies.
+
+- :zap: In my free time, I solving problems on [![Telegram Badge](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/PavelSpectr) and reading technical books about "Computer Science".
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Contact%20me-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Titsubishi) or [![Gmail Badge](https://img.shields.io/badge/GMail-red?style=flat&logo=GMail&logoColor=white)](mailto:titsubishi@gmail.com).
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div header="tools" align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver"  alt="DBeaver" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"  alt="RabbitMQ" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" title="gRPC" alt="gRPC " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg"  title="OpenAPI" alt="OpenAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavelSpectr&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelSpectr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PavelSpectr/PavelSpectr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
