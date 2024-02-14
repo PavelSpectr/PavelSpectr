@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdzMGt4YzEzNnkyNHR5bDJwaG9mdHBhYjFuemdnNW91Y3Y3dDJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xC8sdW7vmG6bRe/giphy.gif" width="280"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/Titsubishi">
+  <a href="https://t.me/Titsubishi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat" height="25"/>
   </a>
-  <a href="mailto:titsubishi@gmail.com">
+  <a href="mailto:titsubishi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMail-red?logo=gmail&logoColor=white&style=flat" height="25"/>
   </a>
-  <a href="https://leetcode.com/PavelSpectr">
+  <a href="https://leetcode.com/PavelSpectr" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=white&style=flat" height="25"/>
   </a>
 </div>
