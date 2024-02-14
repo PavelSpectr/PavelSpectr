@@ -1,19 +1,22 @@
 <div id="header" align="center">
   <!--https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif 
   https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUwYzE5OGhndzdjNWNzem50MXRyMGIwd3A4Z3h3cjN2OGZxN3U2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif-->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdzMGt4YzEzNnkyNHR5bDJwaG9mdHBhYjFuemdnNW91Y3Y3dDJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xC8sdW7vmG6bRe/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdzMGt4YzEzNnkyNHR5bDJwaG9mdHBhYjFuemdnNW91Y3Y3dDJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xC8sdW7vmG6bRe/giphy.gif" width="280"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/Titsubishi">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat" width="100"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat" height="25"/>
+  </a>
+  <a href="mailto:titsubishi@gmail.com">
+    <img src="https://img.shields.io/badge/GMail-red?logo=gmail&logoColor=white&style=flat" height="25"/>
   </a>
   <a href="https://leetcode.com/PavelSpectr">
-    <img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=white&style=flat" width="99"/>
+    <img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=white&style=flat" height="25"/>
   </a>
 </div>
 <p></p>
 <div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=PavelSpectr&style=flat&color=blue" alt="" width="150"/>
+  <img src="https://komarev.com/ghpvc/?username=PavelSpectr&style=flat&color=blue" alt="" height="25"/>
 </div>
 <h1 align="center">
   Nice to meet you there
