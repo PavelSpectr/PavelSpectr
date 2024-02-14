@@ -1,9 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="200"/>
+  <!--https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif 
+  https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUwYzE5OGhndzdjNWNzem50MXRyMGIwd3A4Z3h3cjN2OGZxN3U2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif-->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdzMGt4YzEzNnkyNHR5bDJwaG9mdHBhYjFuemdnNW91Y3Y3dDJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xC8sdW7vmG6bRe/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/Titsubishi">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat" width="99"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat" width="100"/>
   </a>
   <a href="https://leetcode.com/PavelSpectr">
     <img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=white&style=flat" width="99"/>
@@ -63,8 +65,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavelSpectr&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelSpectr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavelSpectr&theme=elegant&background=000000)](https://git.io/streak-stats)&nbsp;
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelSpectr&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **PavelSpectr/PavelSpectr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
