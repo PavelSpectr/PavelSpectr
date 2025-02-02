@@ -65,7 +65,7 @@
 
 ### :man_technologist: About Me :
 #### I am the developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Syberia.
-- :telescope: I’m working as a Software Java Engineer and contributing to backend for building web and PC applications.
+- :telescope: Working as a Software Engineer and contributing to backend for building web and PC applications.
 
 - :seedling: Lerning frameworks and tools for Java, algorithms and exploring actual IT-technologies.
 
